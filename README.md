@@ -1,28 +1,19 @@
-# EaglerCraftX Server
+# WebCraft
 
-## Credits
-Original Project: Lax1Dude
+## Guida
+Clicca "fork this repo" per aver il tuo server personale
 <br>
-Original Server Fork: EcoliEater87
+Dopo il fork vai su code > codespaces > create codespace
 <br>
-## Setup Guide
-Welcome to the EaglercraftX server project! Here is how you can setup your very own eaglercraft server:
-<br>
-<br>
-First, go to the top of the repo and click on code > codespaces > create codespace
-<br>
-now you have your own free server instance to host eaglercraft. Next you need to run the setup commands:
+Ora che hai il tuo server, apri 2 terminali e digita:
 <br>
 <br>
-create 2 terminal tabs and paste in the following snipits:
+Primo comando: `cd server && sudo java -jar server.jar`
 <br>
 <br>
-first tab: `cd server && sudo java -jar server.jar`
+Secondo comando: `cd bungee && sudo java -jar bungee.jar`
 <br>
 <br>
-second tab: `cd bungee && sudo java -jar bungee.jar`
+Ora vai su ports e cliccando "new" inserisci `25565` e `8081` fai click destro su di loro e clicca "public"
 <br>
-<br>
-Now go to the ports area and forward (and make public) ports `25565` and `8081`
-<br>
-Your eaglercraft server is setup!
+Ora hai il tuo server, condividi il link per giocare con amici
