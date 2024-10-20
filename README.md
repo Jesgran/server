@@ -14,6 +14,6 @@ Primo comando: `cd server && sudo java -jar server.jar`
 Secondo comando: `cd bungee && sudo java -jar bungee.jar`
 <br>
 <br>
-Ora vai su ports e cliccando "new" inserisci `25565` e `8081` fai click destro su di loro e clicca "public"
+Ora vai su ports e cliccando "new" inserisci `25565` e `8081` fai click destro su di loro e clicca "viosibilita porta" e clicca "public"
 <br>
 Ora hai il tuo server, condividi il link per giocare con amici
